@@ -35,3 +35,10 @@ Bot (rozpoznana intencja): water_3
 Bot: Podlewam water_3!
 Ty:
 ```
+
+# How to run
+
+1. Create venv
+2. Activate it (`source vevn/bin/activate`)
+3. Install dependencies (`pip install -r requirements.txt`)
+4. Run the script (the script with chatbot is under file `script2.py`) so just run `python script2.py`
